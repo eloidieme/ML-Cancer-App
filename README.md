@@ -1,6 +1,6 @@
 ## ML Breast Cancer App
 
-The app can be accessed at: 
+The app can be accessed at: https://eloi-ml-cancer-app.streamlit.app
 
 This is a Streamlit App that uses logistic regression to predict if a breast mass might be benign or malignant. It has been made for learning purposes and not for real-world use. The goal was to learn how to make and deploy a streamlit app.
 
